@@ -1270,9 +1270,9 @@ body > .header .logo .icon {
 .small-box {
   position: relative;
   display: block;
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  border-radius: 2px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
   margin-bottom: 15px;
 }
 .small-box > .inner {
@@ -1377,13 +1377,13 @@ body > .header .logo .icon {
 .box {
   position: relative;
   background: #ffffff;
-  border-top: 2px solid #c1c1c1;
+  border-top: 5px solid #E31837;
   margin-bottom: 20px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
   width: 100%;
-  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.1);
 }
 .box.box-primary {
   border-top-color: #3c8dbc;
